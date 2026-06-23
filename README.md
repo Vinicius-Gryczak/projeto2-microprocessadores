@@ -152,3 +152,7 @@ Note-se que o LED está desligado, já que a temperatura é menor a 50 °C.
 
 
 Note-se também que o LED está ligado, já que a temperatura é maior a 50 °C.
+
+**Registro de Compilação do Código**
+
+<img width="1452" height="180" alt="Screenshot 2026-06-22 213738" src="https://github.com/user-attachments/assets/fc051d14-4233-4995-bdb2-36b89b3e6895" />
